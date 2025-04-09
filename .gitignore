@@ -2,3 +2,10 @@
 /data/gold
 /data/silver
 /open_source_delta/batch/__pycache__
+open_source_delta/batch/derby.log
+open_source_delta/batch/metastore_db/db.lck
+open_source_delta/batch/metastore_db/log/log.ctrl
+*.dat
+*.txt
+*.properties
+*.ctrl
