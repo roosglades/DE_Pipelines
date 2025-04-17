@@ -9,3 +9,4 @@ open_source_delta/batch/metastore_db/log/log.ctrl
 *.txt
 *.properties
 *.ctrl
+*.csv
